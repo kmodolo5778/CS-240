@@ -5,20 +5,29 @@ This repository ("`CS 240`") is where we (SDSU students) develop the required so
 
 ## CS 240 - Computer Organization
 
+<p align="center">
+  <img alt="Screenshot of CS 240 pixelation code" src="(screenshot of code will go here)">
+</p>
+
 This CS 240 repository contains a variety of assignments from the CS 240 class, including a ASCII-to-Decimal Converter, Bitmap-to-Text-File Converter, Text-File-To-Bitmap-Converter, and a Base Number Converter.
 
 ### ASCII-to-Decimal Converter
 This ASCII to Decimal Converter allows the user to input a string (for example, their name), and returns a comma-delimited integer list of the ASCII Decimal values of each character in the input string.
 
-### Number-Base Converter
-This Number-Base converter supports binary(base 2), decimal(base 8), octal(base 10), and hexadecimal(base 16). This program validates the user's input and outputs the equivalent value in the selected base output. It tests boundary cases such as zero,  the largest supported unsigned value, and at least one negative two's-complement value.
+## Contributing
+Students are welcome to contribute to this repository.
 
-### Bitmap-to-Text-File Converter
-This Bitmap-to-Text-File Converter reads pixels from a bitmap image and converts them into text-based color code. Written to a text file so that the image's pixel data can be viewed, stores, or processed as text.
+## Feedback
 
-### Text-File-To-Bitmap-Converter
-The Text-File-To-Bitmap-Converter reads color codes from a text file and uses them to create a bitmap image. Each code represents a specifci RBG color and determines the color of the corresponding pixel in the image.
+TODO
 
+## Related Projects
+
+TODO
+
+## Code of Conduct
+
+TODO
 
 ## License
 
